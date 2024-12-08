@@ -92,7 +92,11 @@ The system utilizes three datasets:
 **Serialization**
 - **Pickle**: For efficient deployment of models and data
 
-Here is the markdown format:
+![Home](pictures/Top%2050%20Recommendations%20page.png)
+![Recommend](pictures/Recommendation%20page.png)
+![Recommendation](pictures/Recommendation.png)
+
+
 
 ## 🖥️ How to Use
 
